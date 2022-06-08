@@ -1,0 +1,20 @@
+h3 {
+    text-align: center;
+    margin-bottom: 2em;
+}
+#formrow {
+    padding: 20px;
+    justify-items: center;
+    align-items: center;
+}
+
+#season, #round {
+    display: block;
+    margin: auto;
+}
+
+#range {
+    display: flex;
+    justify-content: center;
+    font-weight: 800;
+}
